@@ -2,7 +2,7 @@
 The Country Guide App is a simple and elegant web application that allows users to search for any country and instantly view key information such as its capital, continent, population, currency, languages, and national flag. Built using HTML, CSS, and JavaScript, this app fetches real-time data from the [REST Countries API](https://restcountries.com/) to deliver accurate results.
 
 ## 🚀 Live Demo
-[Click here to try the app](#)  
+[Click here to try the app](https://country-guide-app-zeta.vercel.app/)  
 
 ## 🛠️ Features
 - 🔍 Search any country by name
@@ -21,6 +21,8 @@ The Country Guide App is a simple and elegant web application that allows users 
 
 ## 📁 Project Structure
 ```
-|- index.html
-|- guide.css
-|- guide.js
+country-guide-app/
+├── index.html
+├── style.css
+├── game.js
+└── README.md
